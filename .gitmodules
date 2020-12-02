@@ -1,0 +1,3 @@
+[submodule "NotesStudio"]
+	path = NotesStudio
+	url = https://github.com/nebolax/NotesStudio
